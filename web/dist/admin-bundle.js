@@ -3441,11 +3441,11 @@ var EmployeeAdapter = /*#__PURE__*/function (_ReactModalAdapterBas2) {
         type: 'hidden',
         validation: ''
       }], ['employee_id', {
-        label: 'Employee Number',
+        label: 'ስም',
         type: 'text',
         validation: ''
       }], ['first_name', {
-        label: 'First Name',
+        label: "\u1211",
         type: 'text',
         validation: ''
       }], ['middle_name', {

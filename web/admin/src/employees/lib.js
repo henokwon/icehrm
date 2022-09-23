@@ -183,7 +183,7 @@ class EmployeeAdapter extends ReactModalAdapterBase {
     const fields = [
       ['id', { label: 'ID', type: 'hidden', validation: '' }],
       ['employee_id', { label: 'Employee Number', type: 'text', validation: '' }],
-      ['first_name', { label: 'First Name', type: 'text', validation: '' }],
+      ['first_name', { label: 'Firt Name', type: 'text', validation: '' }],
       ['middle_name', { label: 'Middle Name', type: 'text', validation: 'none' }],
       ['last_name', { label: 'Last Name', type: 'text', validation: '' }],
       ['nationality', { label: 'Nationality', type: 'select2', 'remote-source': ['Nationality', 'id', 'name'] }],

@@ -1779,193 +1779,193 @@ msgid "Employee Time Tracking Report"
 msgstr "Employee Time Tracking Report"
 
 msgid "Expense Report"
-msgstr "Expense Report"
+msgstr "የወጪ ሪፖርት"
 
 msgid "New Hires Employee Report"
-msgstr "New Hires Employee Report"
+msgstr "አዲስ ተቀጣሪ ሪፖርት"
 
 msgid "Overtime Report"
-msgstr "Overtime Report"
+msgstr "የትርፍ ሰዓት ሪፖርት"
 
 msgid "Overtime Request Report"
-msgstr "Overtime Request Report"
+msgstr "የትርፍ ሰዓት ጥያቄ ሪፖርት"
 
 msgid "Overtime Summary Report"
-msgstr "Overtime Summary Report"
+msgstr "የትርፍ ሰዓት ማጠቃለያ ሪፖርት"
 
 msgid "Payroll Meta Data Export"
-msgstr "Payroll Meta Data Export"
+msgstr "የደመወዝ ዲበ ውሂብ ወደ ውጭ መላክ"
 
 msgid "Terminated Employee Report"
-msgstr "Terminated Employee Report"
+msgstr "የተባረረ የሰራተኛ ሪፖርት"
 
 msgid "Travel Request Report"
-msgstr "Travel Request Report"
+msgstr "የጉዞ ጥያቄ ሪፖርት"
 
 msgid "Attendance Report"
-msgstr "Attendance Report"
+msgstr "የመገኘት ሪፖርት"
 
 msgid "Client Project Time Report"
-msgstr "Client Project Time Report"
+msgstr "የደንበኛ ፕሮጀክት ጊዜ ሪፖርት"
 
 msgid "Download Payslips"
-msgstr "Download Payslips"
+msgstr "Payslips አውርድ"
 
 msgid "Leaves Report"
-msgstr "Leaves Report"
+msgstr "የጉዞ ሪፖርት"
 
 msgid "Time Entry Report"
-msgstr "Time Entry Report"
+msgstr "የጊዜ መግቢያ ሪፖርት"
 
 msgid "Time Sheet Report"
-msgstr "Time Sheet Report"
+msgstr "የጊዜ ሉህ ሪፖርት"
 
 msgid "Time Tracking Report"
-msgstr "Time Tracking Report"
+msgstr "የጊዜ መከታተያ ሪፖርት"
 
 msgid "Data"
-msgstr "Data"
+msgstr "ዳታ"
 
 msgid "Processed"
-msgstr "Processed"
+msgstr "ተሰራ"
 
 msgid "Not Processed"
-msgstr "Not Processed"
+msgstr "አልተሰራም"
 
 msgid "Elementary Proficiency"
-msgstr "Elementary Proficiency"
+msgstr "የመጀመሪያ ደረጃ ብቃት"
 
 msgid "Limited Working Proficiency"
-msgstr "Limited Working Proficiency"
+msgstr "የተገደበ የስራ ብቃት"
 
 msgid "Professional Working Proficiency"
-msgstr "Professional Working Proficiency"
+msgstr "ሙያዊ የስራ ብቃት"
 
 msgid "Full Professional Proficiency"
-msgstr "Full Professional Proficiency"
+msgstr "ሙሉ ሙያዊ ብቃት"
 
 msgid "Native or Bilingual Proficiency"
-msgstr "Native or Bilingual Proficiency"
+msgstr "ቤተኛ ወይም የሁለት ቋንቋ ችሎታ"
 
 msgid "Pending"
-msgstr "Pending"
+msgstr "በሂደት ላይ"
 
 msgid "Approved"
-msgstr "Approved"
+msgstr "ተፈቀደ"
 
 msgid "Rejected"
-msgstr "Rejected"
+msgstr "ተከለከለ"
 
 msgid "Cancelled"
-msgstr "Cancelled"
+msgstr "የተቋረጠ"
 
 msgid "Continue"
-msgstr "Continue"
+msgstr "ቀጥል"
 
 msgid "Cancellation Requested"
-msgstr "Cancellation Requested"
+msgstr "መሰረዝ ተጠይቋል"
 
 msgid "Completed"
-msgstr "Completed"
+msgstr "የተጠናቀቀ"
 
 msgid "Discussions"
-msgstr "Discussions"
+msgstr "ውይይቶች"
 
 msgid "Load More"
-msgstr "Load More"
+msgstr "ተጨማሪ ጫን"
 
 msgid "Show More"
-msgstr "Show More"
+msgstr "ተጨማሪ አሳይ"
 
 msgid "Show Less"
-msgstr "Show Less"
+msgstr "ትንሽ አሳይ"
 
 msgid "Publish"
-msgstr "Publish"
+msgstr "አትም"
 
 msgid "Announcements"
-msgstr "Announcements"
+msgstr "መግለጫዎች"
 
 msgid "Send"
-msgstr "Send"
+msgstr "ላክ"
 
 msgid "Display"
-msgstr "Display"
+msgstr "አሳይ"
 
 msgid "Public"
-msgstr "Public"
+msgstr "የህዝብ"
 
 msgid "View Announcements"
-msgstr "View Announcements"
+msgstr "መግለጫዎች ተመልከት"
 
 msgid "Conversations"
-msgstr "Conversations"
+msgstr "ቃለ ምልልስ"
 
 msgid "Start Now"
-msgstr "Start Now"
+msgstr "ጀምር"
 
 msgid "Company Assets"
-msgstr "Company Assets"
+msgstr "የድርጅት ንብረቶች"
 
 msgid "Asset Types"
-msgstr "Asset Types"
+msgstr "የንብረት አይነት"
 
 msgid "Asset Name"
-msgstr "Asset Name"
+msgstr "የንብረት ስም"
 
 msgid "Performance"
-msgstr "Performance"
+msgstr "አፈጻጸም"
 
 msgid "Performance Review"
-msgstr "Performance Review"
+msgstr "የአፈጻጸም ግምገማ"
 
 msgid "Performance Reviews"
-msgstr "Performance Reviews"
+msgstr "የአፈጻጸም ግምገማዎች"
 
 msgid "Review"
-msgstr "Review"
+msgstr "ግምገማ"
 
 msgid "Reviews"
-msgstr "Reviews"
+msgstr "ግምገማዎች"
 
 msgid "Review Feedback"
-msgstr "Review Feedback"
+msgstr "ግብረ መልስን ይገምግሙ"
 
 msgid "Review Template"
-msgstr "Review Template"
+msgstr "አብነት ይገምግሙ"
 
 msgid "Template"
-msgstr "Template"
+msgstr "አብነት"
 
 msgid "Review Date"
-msgstr "Review Date"
+msgstr "የግምገማ ቀን"
 
 msgid "Self Assessment Due On"
-msgstr "Self Assessment Due On"
+msgstr "ግለ ሂስ በ"
 
 msgid "Review Period Start"
-msgstr "Review Period Start"
+msgstr "የማስጀመሪያ ግምገማ"
 
 msgid "Review Period End"
-msgstr "Review Period End"
+msgstr "የማጠቃለያ ግምገማ"
 
 msgid "Attendees"
-msgstr "Attendees"
+msgstr "ተሳታፊዎች"
 
 msgid "Performance Reviews Coordinated by Me"
-msgstr "Performance Reviews Coordinated by Me"
+msgstr "የኔ ግምገማዎች"
 
 msgid "Provide Feedback"
-msgstr "Provide Feedback"
+msgstr "ግብረ መልስ"
 
 msgid "Review Status"
 msgstr "Review Status"
 
 msgid "Payroll Employees"
-msgstr "Payroll Employees"
+msgstr "ፔሮል ሰራተኛ"
 
 msgid "Payroll Groups"
-msgstr "Payroll Groups"
+msgstr "ፔሮል ምድቦች"
 
 msgid "Saved Calculations"
 msgstr "Saved Calculations"
@@ -1983,7 +1983,7 @@ msgid "View"
 msgstr "View"
 
 msgid "Delete"
-msgstr "Delete"
+msgstr "አጥፋ"
 
 msgid "Copy"
-msgstr "Copy"
+msgstr "ኮፒ"
