@@ -2,11 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 18.0\n"
 "Report-Msgid-Bugs-To: https://icehrm.com\n"
+<<<<<<< HEAD
 "Last-Translator: Thilina Hasantha\n"
+=======
+"Last-Translator: Henok Wondu\n"
+>>>>>>> ac2d8ccb (amharic added)
 "Language-Team: IceHrm\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2018-03-05T05:26:33+05:30\n"
 "PO-Revision-Date: 2018-03-05T05:26:33+05:30\n"
 "Language: English\n"
@@ -19,11 +24,26 @@ msgstr "Cancel"
 
 msgid "Done"
 msgstr "Done"
+=======
+"POT-Creation-Date: 2022-03-05T05:26:33+05:30\n"
+"PO-Revision-Date: 2022-03-05T05:26:33+05:30\n"
+"Language: Amharic\n"
+
+msgid "Save"
+msgstr "አስቀምጥ"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Done"
+msgstr "ተከናውኗል"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Clocked In Employees"
 msgstr "Clocked In Employees"
 
 msgid "Candidates"
+<<<<<<< HEAD
 msgstr "Candidates"
 
 msgid "View Employees"
@@ -31,11 +51,21 @@ msgstr "View Employees"
 
 msgid "Add a New Employee"
 msgstr "Add a New Employee"
+=======
+msgstr "እጩዎች"
+
+msgid "View Employees"
+msgstr "ሰራተኞችን ይመልከቱ"
+
+msgid "Add a New Employee"
+msgstr "አዲስ ሰራተኛ ጨምር"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Leave Calendar"
 msgstr "Leave Calendar"
 
 msgid "Manage Client/Projects"
+<<<<<<< HEAD
 msgstr "Manage Client/Projects"
 
 msgid "Home"
@@ -181,11 +211,159 @@ msgstr "Basic Information"
 
 msgid "Qualifications"
 msgstr "Qualifications"
+=======
+msgstr "ደንበኛ/ፕሮጀክቶችን አስተዳድር"
+
+msgid "Home"
+msgstr "ቤት"
+
+msgid "Quick Access"
+msgstr "ፈጣን መዳረሻ"
+
+msgid "Switch"
+msgstr "ቀይር"
+
+msgid "Profile"
+msgstr "መገለጫ"
+
+msgid "Sign out"
+msgstr "ዘግተህ ውጣ"
+
+msgid "Help"
+msgstr "እገዛ"
+
+msgid "About"
+msgstr "ስለ"
+
+msgid "Version"
+msgstr "ሥሪት"
+
+msgid "Release Date"
+msgstr "ይፋዊ ቀኑ"
+
+msgid "Logged In"
+msgstr "ገብተዋል"
+
+msgid "Admin"
+msgstr "አስተዳዳሪ"
+
+msgid "Dashboard"
+msgstr "ዳሽቦርድ"
+
+msgid "Company Structure"
+msgstr "የኩባንያው መዋቅር"
+
+msgid "Job Details Setup"
+msgstr "የሥራ ዝርዝሮች ማዋቀር"
+
+msgid "Qualifications Setup"
+msgstr "የብቃት ማዋቀር"
+
+msgid "Training Setup"
+msgstr "የሥልጠና ዝግጅት"
+
+msgid "Projects/Client Setup"
+msgstr "ፕሮጀክቶች/የደንበኛ ማዋቀር"
+
+msgid "Leave Settings"
+msgstr "ከቅንብሮች ይውጡ"
+
+msgid "Company Loans"
+msgstr "የኩባንያ ብድር"
+
+msgid "Audit Log"
+msgstr "የኦዲት መዝገብ"
+
+msgid "Employees"
+msgstr "ሰራተኞች"
+
+msgid "Employee History"
+msgstr "የሰራተኛ ታሪክ"
+
+msgid "Document Management"
+msgstr "የሰነድ አስተዳደር"
+
+msgid "Travel Administration"
+msgstr "የጉዞ አስተዳደር"
+
+msgid "Expense Administration"
+msgstr "የወጪ አስተዳደር"
+
+msgid "Monitor Attendance"
+msgstr "ክትትልን ይከታተሉ"
+
+msgid "Performance Charts"
+msgstr "የአፈጻጸም ገበታዎች"
+
+msgid "Overtime Administration"
+msgstr "የትርፍ ሰዓት አስተዳደር"
+
+msgid "Admin Reports"
+msgstr "የአስተዳዳሪ ሪፖርቶች"
+
+msgid "Reports"
+msgstr "ሪፖርቶች"
+
+msgid "Report Files"
+msgstr "ፋይሎችን ሪፖርት አድርግ"
+
+msgid "System"
+msgstr "ስርዓት"
+
+msgid "Settings"
+msgstr "ቅንብሮች"
+
+msgid "Users"
+msgstr "ተጠቃሚዎች"
+
+msgid "Manage Modules"
+msgstr "ሞጁሎችን ያስተዳድሩ"
+
+msgid "Manage Permissions"
+msgstr "ፈቃዶችን ያስተዳድሩ"
+
+msgid "Upgrade"
+msgstr "አሻሽል"
+
+msgid "Manage Metadata"
+msgstr "ዲበ ውሂብን አስተዳድር"
+
+msgid "Field Names Setup"
+msgstr "የመስክ ስሞች ማዋቀር"
+
+msgid "Payroll"
+msgstr "የደመወዝ ክፍያ"
+
+msgid "Salary"
+msgstr "ደሞዝ"
+
+msgid "Payroll Reports"
+msgstr "የደመወዝ ሪፖርቶች"
+
+msgid "Recruitment"
+msgstr "ምልመላ"
+
+msgid "Recruitment Setup"
+msgstr "የምልመላ ማዋቀር"
+
+msgid "Job Positions"
+msgstr "የሥራ እርከኖች"
+
+msgid "Personal Information"
+msgstr "የግል መረጃ"
+
+msgid "Basic Information"
+msgstr "መሰረታዊ መረጃ"
+
+msgid "Qualifications"
+msgstr "ብቃቶች"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Dependents"
 msgstr "Dependents"
 
 msgid "Emergency Contacts"
+<<<<<<< HEAD
 msgstr "Emergency Contacts"
 
 msgid "Leave"
@@ -205,11 +383,33 @@ msgstr "Attendance"
 
 msgid "Time Sheets"
 msgstr "Time Sheets"
+=======
+msgstr "የአደጋ ጊዜ እውቂያዎች"
+
+msgid "Leave"
+msgstr "ጉዞ"
+
+msgid "Leave Management"
+msgstr "የጉዞ አስተዳደር"
+
+msgid "Time Management"
+msgstr "የጊዜ አጠቃቀም"
+
+msgid "Projects"
+msgstr "ፕሮጀክቶች"
+
+msgid "Attendance"
+msgstr "መገኘት"
+
+msgid "Time Sheets"
+msgstr "የጊዜ መዝገብ"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Attendance Sheets"
 msgstr "Attendance Sheets"
 
 msgid "Overtime Requests"
+<<<<<<< HEAD
 msgstr "Overtime Requests"
 
 msgid "Documents"
@@ -220,11 +420,24 @@ msgstr "My Documents"
 
 msgid "Company"
 msgstr "Company"
+=======
+msgstr "የትርፍ ሰዓት ጥያቄዎች"
+
+msgid "Documents"
+msgstr "ሰነዶች"
+
+msgid "My Documents"
+msgstr "የእኔ ሰነዶች"
+
+msgid "Company"
+msgstr "ኩባንያ"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Staff Directory"
 msgstr "Staff Directory"
 
 msgid "Training"
+<<<<<<< HEAD
 msgstr "Training"
 
 msgid "Travel Management"
@@ -337,17 +550,136 @@ msgstr "Edit Details"
 
 msgid "View/Edit Profile"
 msgstr "View/Edit Profile"
+=======
+msgstr "ስልጠና"
+
+msgid "Travel Management"
+msgstr "የጉዞ አስተዳደር"
+
+msgid "Travel"
+msgstr "ጉዞ"
+
+msgid "Finance"
+msgstr "ፋይናንስ"
+
+msgid "Expenses"
+msgstr "ወጪዎች"
+
+msgid "Loans"
+msgstr "ብድሮች"
+
+msgid "User Reports"
+msgstr "የተጠቃሚ ሪፖርቶች"
+
+msgid "People"
+msgstr "ሰዎች"
+
+msgid "Manage"
+msgstr "አስተዳድር"
+
+msgid "Departments"
+msgstr "መምሪያዎች"
+
+msgid "Active Projects"
+msgstr "የተጀመሩ ፕሮጀክቶች"
+
+msgid "Update Clients/Projects"
+msgstr "ደንበኞችን/ፕሮጀክቶችን ያዘምኑ"
+
+msgid "Entries Last Week"
+msgstr "መግቢያዎች ባለፈው ሳምንት"
+
+msgid "Upcoming"
+msgstr "መጪ"
+
+msgid "View / Download Reports"
+msgstr "ሪፖርቶችን ይመልከቱ / ያውርዱ"
+
+msgid "Generate a Report"
+msgstr "ሪፖርት ማመንጨት"
+
+msgid "Configure"
+msgstr "አዋቅር"
+
+msgid "Update"
+msgstr "አዘምን"
+
+msgid "Applicants"
+msgstr "አመልካቾች"
+
+msgid "Active Jobs"
+msgstr "የተጀመሩ  ስራዎች"
+
+msgid "Jobs Posted"
+msgstr "የተለጠፉ ስራዎች"
+
+msgid "Jobs"
+msgstr "ስራዎች"
+
+msgid "Courses"
+msgstr "ኮርሶች"
+
+msgid "Requests"
+msgstr "ጥያቄዎች"
+
+msgid "Document"
+msgstr "ሰነድ"
+
+msgid "Management"
+msgstr "አስተዳደር"
+
+msgid "Expense"
+msgstr "ወጪ"
+
+msgid "Permission"
+msgstr "ፍቃድ"
+
+msgid "Permissions"
+msgstr "ፈቃዶች"
+
+msgid "and"
+msgstr "እና"
+
+msgid "Invoices"
+msgstr "ደረሰኞች"
+
+msgid "Make a Payment"
+msgstr "ክፍያ ፈጽሙ"
+
+msgid "Switch Employee"
+msgstr "ሰራተኛ ቀይር"
+
+msgid "Select The Employee to Switch Into"
+msgstr "የሚቀይሩትን  ሰራተኛ ይምረጡ"
+
+msgid "Close"
+msgstr "ዝጋ"
+
+msgid "My Profile"
+msgstr "የግል ማህደሬ"
+
+msgid "Edit Details"
+msgstr "ዝርዝሮችን ያርትዑ"
+
+msgid "View/Edit Profile"
+msgstr "መገለጫን ይመልከቱ/ያርትዑ"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Punch In"
 msgstr "Punch In"
 
 msgid "or"
+<<<<<<< HEAD
 msgstr "or"
+=======
+msgstr "ወይም"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Punch Out"
 msgstr "Punch Out"
 
 msgid "Record Attendance"
+<<<<<<< HEAD
 msgstr "Record Attendance"
 
 msgid "Pending Leaves"
@@ -433,11 +765,99 @@ msgstr "Min Salary"
 
 msgid "Max Salary"
 msgstr "Max Salary"
+=======
+msgstr "መገኘትን ይመዝግቡ"
+
+msgid "Pending Leaves"
+msgstr "በመጠባበቅ ላይ ያሉ የጉዞ ጥያቄዎች"
+
+msgid "Check Leave Status"
+msgstr "የመውጣት ሁኔታን ያረጋግጡ"
+
+msgid "Hours worked Last Week"
+msgstr "ባለፈው ሳምንት የሰሩባቸው ሰአታት"
+
+msgid "Update Time Sheet"
+msgstr "የሰዓት ሉህ ያዘምኑ"
+
+msgid "My Projects"
+msgstr "የእኔ ፕሮጀክቶች"
+
+msgid "Projects Assigned"
+msgstr "የተመደቡ ፕሮጀክቶች"
+
+msgid "More info"
+msgstr "ተጨማሪ መረጃ"
+
+msgid "Store"
+msgstr "ማከማቻ"
+
+msgid "My Travel"
+msgstr "የእኔ ጉዞ"
+
+msgid "My Expenses"
+msgstr "የእኔ ወጪዎች"
+
+msgid "Manage Expenses"
+msgstr "ወጪዎችን ያስተዳድሩ"
+
+msgid "ID"
+msgstr "መታወቂያ"
+
+msgid "Name"
+msgstr "ስም"
+
+msgid "Address"
+msgstr "አድራሻ"
+
+msgid "Type"
+msgstr "ዓይነት"
+
+msgid "Country"
+msgstr "ሀገር"
+
+msgid "Time Zone"
+msgstr "የጊዜ ክልል"
+
+msgid "Parent Structure"
+msgstr "የወላጅ መዋቅር"
+
+msgid "Details"
+msgstr "ዝርዝሮች"
+
+msgid "Heads"
+msgstr "ራሶች"
+
+msgid "Code"
+msgstr "ኮድ"
+
+msgid "Job Title Code"
+msgstr "የሥራ ስም ኮድ"
+
+msgid "Job Title"
+msgstr "የሥራ ስም"
+
+msgid "Description"
+msgstr "መግለጫ"
+
+msgid "Specification"
+msgstr "ዝርዝር መግለጫ"
+
+msgid "Currency"
+msgstr "ምንዛሪ"
+
+msgid "Min Salary"
+msgstr "አነስተኛ ደሞዝ"
+
+msgid "Max Salary"
+msgstr "ከፍተኛ ደመወዝ"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Pay Grade Name"
 msgstr "Pay Grade Name"
 
 msgid "Employment Status"
+<<<<<<< HEAD
 msgstr "Employment Status"
 
 msgid "Coordinator"
@@ -484,6 +904,54 @@ msgstr "Training Certificate Required"
 
 msgid "Employee"
 msgstr "Employee"
+=======
+msgstr "የቅጥር ሁኔታ"
+
+msgid "Coordinator"
+msgstr "አስተባባሪ"
+
+msgid "Trainer"
+msgstr "አሰልጣኝ"
+
+msgid "Trainer Details"
+msgstr "የአሰልጣኝ ዝርዝሮች"
+
+msgid "Payment Type"
+msgstr "የክፍያ ዓይነት"
+
+msgid "Cost"
+msgstr "ወጪ"
+
+msgid "Status"
+msgstr "ሁኔታ"
+
+msgid "Course"
+msgstr "ኮርስ"
+
+msgid "Scheduled Time"
+msgstr "የታቀደ ጊዜ"
+
+msgid "Assignment Due Date"
+msgstr "የምደባ ማብቂያ ቀን"
+
+msgid "Delivery Method"
+msgstr "የማስረከቢያ ዘዴ"
+
+msgid "Delivery Location"
+msgstr "የማስረከቢያ ቦታ"
+
+msgid "Attendance Type"
+msgstr "የመገኘት አይነት"
+
+msgid "Attachment"
+msgstr "አባሪ"
+
+msgid "Training Certificate Required"
+msgstr "የሥልጠና የምስክር ወረቀት ያስፈልጋል"
+
+msgid "Employee"
+msgstr "ሰራተኛ"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Training Session"
 msgstr "Training Session"
@@ -615,7 +1083,11 @@ msgid "Monthly Installment"
 msgstr "Monthly Installment"
 
 msgid "Employee Number"
+<<<<<<< HEAD
 msgstr "የሰራተኛ ቁጥር"
+=======
+msgstr "Employee Number"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "First Name"
 msgstr "First Name"
@@ -1779,6 +2251,7 @@ msgid "Employee Time Tracking Report"
 msgstr "Employee Time Tracking Report"
 
 msgid "Expense Report"
+<<<<<<< HEAD
 msgstr "የወጪ ሪፖርት"
 
 msgid "New Hires Employee Report"
@@ -1957,15 +2430,202 @@ msgstr "የኔ ግምገማዎች"
 
 msgid "Provide Feedback"
 msgstr "ግብረ መልስ"
+=======
+msgstr "Expense Report"
+
+msgid "New Hires Employee Report"
+msgstr "New Hires Employee Report"
+
+msgid "Overtime Report"
+msgstr "Overtime Report"
+
+msgid "Overtime Request Report"
+msgstr "Overtime Request Report"
+
+msgid "Overtime Summary Report"
+msgstr "Overtime Summary Report"
+
+msgid "Payroll Meta Data Export"
+msgstr "Payroll Meta Data Export"
+
+msgid "Terminated Employee Report"
+msgstr "Terminated Employee Report"
+
+msgid "Travel Request Report"
+msgstr "Travel Request Report"
+
+msgid "Attendance Report"
+msgstr "Attendance Report"
+
+msgid "Client Project Time Report"
+msgstr "Client Project Time Report"
+
+msgid "Download Payslips"
+msgstr "Download Payslips"
+
+msgid "Leaves Report"
+msgstr "Leaves Report"
+
+msgid "Time Entry Report"
+msgstr "Time Entry Report"
+
+msgid "Time Sheet Report"
+msgstr "Time Sheet Report"
+
+msgid "Time Tracking Report"
+msgstr "Time Tracking Report"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Processed"
+msgstr "Processed"
+
+msgid "Not Processed"
+msgstr "Not Processed"
+
+msgid "Elementary Proficiency"
+msgstr "Elementary Proficiency"
+
+msgid "Limited Working Proficiency"
+msgstr "Limited Working Proficiency"
+
+msgid "Professional Working Proficiency"
+msgstr "Professional Working Proficiency"
+
+msgid "Full Professional Proficiency"
+msgstr "Full Professional Proficiency"
+
+msgid "Native or Bilingual Proficiency"
+msgstr "Native or Bilingual Proficiency"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Approved"
+msgstr "Approved"
+
+msgid "Rejected"
+msgstr "Rejected"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Cancellation Requested"
+msgstr "Cancellation Requested"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Discussions"
+msgstr "Discussions"
+
+msgid "Load More"
+msgstr "Load More"
+
+msgid "Show More"
+msgstr "Show More"
+
+msgid "Show Less"
+msgstr "Show Less"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Announcements"
+msgstr "Announcements"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Public"
+msgstr "Public"
+
+msgid "View Announcements"
+msgstr "View Announcements"
+
+msgid "Conversations"
+msgstr "Conversations"
+
+msgid "Start Now"
+msgstr "Start Now"
+
+msgid "Company Assets"
+msgstr "Company Assets"
+
+msgid "Asset Types"
+msgstr "Asset Types"
+
+msgid "Asset Name"
+msgstr "Asset Name"
+
+msgid "Performance"
+msgstr "Performance"
+
+msgid "Performance Review"
+msgstr "Performance Review"
+
+msgid "Performance Reviews"
+msgstr "Performance Reviews"
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Reviews"
+msgstr "Reviews"
+
+msgid "Review Feedback"
+msgstr "Review Feedback"
+
+msgid "Review Template"
+msgstr "Review Template"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Review Date"
+msgstr "Review Date"
+
+msgid "Self Assessment Due On"
+msgstr "Self Assessment Due On"
+
+msgid "Review Period Start"
+msgstr "Review Period Start"
+
+msgid "Review Period End"
+msgstr "Review Period End"
+
+msgid "Attendees"
+msgstr "Attendees"
+
+msgid "Performance Reviews Coordinated by Me"
+msgstr "Performance Reviews Coordinated by Me"
+
+msgid "Provide Feedback"
+msgstr "Provide Feedback"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Review Status"
 msgstr "Review Status"
 
 msgid "Payroll Employees"
+<<<<<<< HEAD
 msgstr "ፔሮል ሰራተኛ"
 
 msgid "Payroll Groups"
 msgstr "ፔሮል ምድቦች"
+=======
+msgstr "Payroll Employees"
+
+msgid "Payroll Groups"
+msgstr "Payroll Groups"
+>>>>>>> ac2d8ccb (amharic added)
 
 msgid "Saved Calculations"
 msgstr "Saved Calculations"
@@ -1983,7 +2643,14 @@ msgid "View"
 msgstr "View"
 
 msgid "Delete"
+<<<<<<< HEAD
 msgstr "አጥፋ"
 
 msgid "Copy"
 msgstr "ኮፒ"
+=======
+msgstr "Delete"
+
+msgid "Copy"
+msgstr "Copy"
+>>>>>>> ac2d8ccb (amharic added)

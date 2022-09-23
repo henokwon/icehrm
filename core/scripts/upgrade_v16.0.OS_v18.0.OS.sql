@@ -461,6 +461,7 @@ create table `SupportedLanguages` (
 
 INSERT INTO `SupportedLanguages` (`name`, `description`) VALUES
 ('en', 'English'),
+('am', 'Amharic'),
 ('de', 'German'),
 ('fr', 'French'),
 ('pl', 'Polish'),

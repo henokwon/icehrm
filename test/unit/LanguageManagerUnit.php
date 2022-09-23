@@ -26,7 +26,8 @@ class LanguageManagerUnit extends \TestTemplate
 
     	$enCount = $this->getTranslationCount('en');
 
-	    $this->assertEquals($enCount, $this->getTranslationCount('de'));
+	    $this->assertEquals($enCount, $this->getTranslationCount('am'));
+        $this->assertEquals($enCount, $this->getTranslationCount('de'));
 	    $this->assertEquals($enCount, $this->getTranslationCount('es'));
 	    $this->assertEquals($enCount, $this->getTranslationCount('fr'));
 	    $this->assertEquals($enCount, $this->getTranslationCount('it'));

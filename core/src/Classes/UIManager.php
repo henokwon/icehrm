@@ -275,7 +275,9 @@ class UIManager
             $currentCountryCode = 'jp';
         } elseif ($currentLanguage === 'sr') {
             $currentCountryCode = 'rs';
-        } elseif ($currentLanguage === 'sv') {
+        } elseif ($currentLanguage === 'am') {
+            $currentCountryCode = 'et';
+        }elseif ($currentLanguage === 'sv') {
             $currentCountryCode = 'se';
         }
 

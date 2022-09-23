@@ -14,6 +14,11 @@ SQL;
         INSERT INTO `SupportedLanguages` (`name`, `description`) VALUES ('sv', 'Swedish');
 SQL;
         $this->executeQuery($sql);
+        $sql = <<<'SQL'
+        INSERT INTO `SupportedLanguages` (`name`, `description`) VALUES ('am', 'Amharic');
+SQL;
+        $this->executeQuery($sql);
+
 
         $sql = <<<'SQL'
         INSERT INTO `SupportedLanguages` (`name`, `description`) VALUES ('no', 'Norwegian');

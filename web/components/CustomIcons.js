@@ -1,4 +1,4 @@
-/**
+adydrame/**
  * https://openmoji.org/
  */
 import Icon from '@ant-design/icons';

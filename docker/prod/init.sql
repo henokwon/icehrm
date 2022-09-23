@@ -2651,6 +2651,7 @@ INSERT INTO `Languages` (`id`, `name`, `description`) VALUES
 
 INSERT INTO `SupportedLanguages` (`name`, `description`) VALUES
     ('en', 'English'),
+    ('am', 'Amharic'),
     ('de', 'German'),
     ('fr', 'French'),
     ('pl', 'Polish'),
